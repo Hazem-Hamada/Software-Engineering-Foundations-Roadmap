@@ -10,7 +10,8 @@
 
 ### 📊 Roadmap Progress (8/27 Courses)
 
-[![Progress](https://geps.dev/progress/33)](https://img.shields.io/badge/Progress-29.6%25-green)
+
+![Progress](https://img.shields.io/badge/Progress-29%25-green)
 
 
 1. [x] 01 - Programming Foundations - Level 1
