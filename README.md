@@ -8,9 +8,9 @@
 
 ### 🚀 Software Engineering Roadmap Checklist
 
-### 📊 Roadmap Progress (9/27 Courses)
+### 📊 Roadmap Progress (8/27 Courses)
 
-[![Progress](https://geps.dev/progress/33)](https://img.shields.io/badge/Progress-33%25-green)
+[![Progress](https://geps.dev/progress/33)](https://img.shields.io/badge/Progress-29.6%25-green)
 
 
 1. [x] 01 - Programming Foundations - Level 1
