@@ -8,6 +8,9 @@
 
 ### 🚀 Software Engineering Roadmap Checklist
 
+### 📊 Roadmap Progress (9/27 Courses)
+![Progress](https://geps.dev/progress/33)
+
 1. [x] 01 - Programming Foundations - Level 1
 2. [x] 02 - Algorithms & Problem-Solving - Level 1
 3. [x] 03 - Introduction to Programming with C++ - Level 1
