@@ -2,6 +2,10 @@
 "A comprehensive documentation of my journey through the Software Engineering roadmap, covering CS foundations, Algorithms, OOP, and Backend development. Inspired by Dr. Mohammed Abu-Hadhoud's curriculum."
 
 
+![jlJAuzdhQsaQppzKYUR9_1000116077](https://github.com/user-attachments/assets/cd47f38e-9dde-4b43-b125-49e653dc0f70)
+
+
+
 ### 🚀 Software Engineering Roadmap Checklist
 
 1. [x] 01 - Programming Foundations - Level 1
