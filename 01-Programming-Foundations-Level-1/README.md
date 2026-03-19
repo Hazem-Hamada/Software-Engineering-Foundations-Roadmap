@@ -27,4 +27,4 @@ Instead of rushing into coding, this course focuses on the fundamental "under th
 
 ---
 ## 🚀 Next Step
-Moving forward to **Level 2** to start applying these foundational concepts in practice.
+Moving forward to **Course 2** to start applying these foundational concepts in practice.
