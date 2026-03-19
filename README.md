@@ -53,14 +53,13 @@ Once I complete this fundamental roadmap (27 courses), I will transition into pr
 * **Primary Tech Stack:** Building enterprise applications using **.NET Core** for Backend and **Angular** for Frontend.
 * **Master Web Roadmap:** Upon finishing this current foundations repo, I will launch a **dedicated Master Repository** for my Web Development journey to document every step in the specialization phase.
 
-### 🏆 Competitive Programming (CP)
-* I aim to start intensive CP training in parallel with my specialization studies. 
-* **Goal:** Compete in **ECPC/ACPC** and work towards achieving high ranks (Candidate Master/Master) on Codeforces to keep my problem-solving skills sharp.
-
 ### 🎓 Graduation Project: Student Information System (SIS)
 The capstone of my academic journey will be a comprehensive **Student Information System (SIS) & Student Portal**:
 * **Architecture:** Planned implementation of **Clean Architecture** to ensure a professional, scalable codebase.
 * **Dedication:** This project will involve 5 months of intensive development, with a daily commitment of 4-5 hours of deep work and research.
 * **Objective:** Bridging the gap between academic foundations and professional-grade software development.
 
+### 🏆 Competitive Programming (CP)
+* I aim to start intensive CP training in parallel with my specialization studies. 
+* **Goal:** Compete in **ECPC/ACPC** and work towards achieving high ranks (Candidate Master/Master) on Codeforces to keep my problem-solving skills sharp.
 ---
