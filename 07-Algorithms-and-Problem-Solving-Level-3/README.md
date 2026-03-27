@@ -17,7 +17,7 @@ This course marks a pivotal transition in my software engineering journey. It mo
 * 📜 **[Problem-Solving Main Repository](https://github.com/Hazem-Hamada/Algorithms-Problem-Solving-From-Foundation-Roadmap/tree/main):** My complete archive of algorithmic solutions.
 
 ### 🌐 Social & Documentation
-* 📢 **[LinkedIn Project Post](رابط_البوست_هنا):** Deep dive into the project's development and logic.
+* 📢 **[LinkedIn Project Post](https://www.linkedin.com/posts/hazem-hamada-emara_programmingadvices-aepaeqaewaevaexaevaewaex-ugcPost-7440848459848630272-Mf3S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF_0vlUBVIjWe2WLjCV1uJpTleKhmpj6T9w):** Deep dive into the project's development and logic.
 * 👤 **[LinkedIn Profile](https://www.linkedin.com/in/hazem-hamada-emara):** Connect for more updates on my engineering journey.
 
 ---
