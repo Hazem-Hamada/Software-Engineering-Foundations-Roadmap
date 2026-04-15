@@ -19,7 +19,7 @@ This course represents the peak of the foundational problem-solving track. It is
 
 ### 🌐 Social & Documentation
 * 📢 **[LinkedIn: Bank V3 Technical Breakdown](https://www.linkedin.com/posts/hazem-hamada-emara_programmingadvices-softwareengineering-cpp-ugcPost-7449625082127142912-cLEc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF_0vlUBVIjWe2WLjCV1uJpTleKhmpj6T9w):** Deep dive into implementing Bitwise-based security layers.
-* 🎓 **[LinkedIn: Course Completion & ATM Showcase](https://www.linkedin.com/in/hazem-hamada-emara):** Summary of the 65-problem journey and final system implementation.
+* 🎓 **[LinkedIn: Course Completion & ATM Showcase](https://www.linkedin.com/posts/hazem-hamada-emara_programmingadvices-softwareengineering-cpp-activity-7450307906454958080-xmtR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF_0vlUBVIjWe2WLjCV1uJpTleKhmpj6T9w):** Summary of the 65-problem journey and final system implementation.
 
 ---
 
