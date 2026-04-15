@@ -15,6 +15,7 @@ This course represents the peak of the foundational problem-solving track. It is
 
 ### 🧩 Problem Solving & Practice
 * 📂 **[View 65+ Advanced Problems (Code)](https://github.com/Hazem-Hamada/Algorithms-Problem-Solving-From-Foundation-Roadmap/tree/main/08%20-%20Algorithms%20%26%20Problem-Solving%20-%20Level%204):** Specialized solutions for intensive Level 4 challenges (Calendars, Date/Time Engineering, and Logic Puzzles).
+* 📜 **[Problem-Solving Main Repository](https://github.com/Hazem-Hamada/Algorithms-Problem-Solving-From-Foundation-Roadmap/tree/main):** My comprehensive archive of 150+ algorithmic solutions.
 
 ### 🌐 Social & Documentation
 * 📢 **[LinkedIn: Bank V3 Technical Breakdown](https://www.linkedin.com/posts/hazem-hamada-emara_programmingadvices-softwareengineering-cpp-ugcPost-7449625082127142912-cLEc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF_0vlUBVIjWe2WLjCV1uJpTleKhmpj6T9w):** Deep dive into implementing Bitwise-based security layers.
